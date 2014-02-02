@@ -1,0 +1,3 @@
+export(BayesPen.lm.confounders,BayesPen.lm,BayesPen.plot,BayesPen,BayesPen.refit,SimExample)
+useDynLib(BayesPen)
+import(lars, MCMCpack, SuppDists)
